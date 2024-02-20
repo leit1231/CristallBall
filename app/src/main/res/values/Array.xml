@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="retos">
+        <item>Да</item>
+        <item>Нет</item>
+        <item>Возможно</item>
+        <item>Скорее нет, чем да</item>
+        <item>Скорее да, чем нет</item>
+    </string-array>
+</resources>
